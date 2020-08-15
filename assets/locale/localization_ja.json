@@ -1,0 +1,20 @@
+{
+  "recommended_for_you": "あなたにおすすめ",
+  "pls_connect_to_internet": "インターネットに接続してください！",
+  "something_went_wrong": "問題が発生しました！",
+  "lbl_rating": "Elo 評価",
+  "tournament_played": "トーナメント \n プレイした",
+  "tournament_won": "トーナメント \n 勝った",
+  "win_percentage": "勝つ \n 割合",
+  "loading": "読み込み中 ...",
+  "login": "ログインする",
+  "password_error": "3文字以上必要です",
+  "phone_error": "最小3文字と最大10文字が必要です",
+  "enter_phone": "電話番号を入力してください",
+  "enter_password": "パスワードを入力してください",
+  "ok": "OK",
+  "invalid_credentials": "無効な資格情報！",
+  "cancel": "キャンセル",
+  "log_out": "ログアウト",
+  "log_out_msg": "ログアウトしてもよろしいですか？"
+}

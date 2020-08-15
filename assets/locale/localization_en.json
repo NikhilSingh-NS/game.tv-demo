@@ -1,0 +1,20 @@
+{
+  "recommended_for_you": "Recommended for you",
+  "pls_connect_to_internet": "Please connect to internet!",
+  "something_went_wrong": "Something went wrong!",
+  "lbl_rating": "Elo Rating",
+  "tournament_played": "Tournaments \n Played",
+  "tournament_won": "Tournaments \n won",
+  "win_percentage": "Winning \n percentage",
+  "loading": "Loading ...",
+  "login": "Login",
+  "password_error": "Min. 3 characters needed",
+  "phone_error": "Min. 3 & Max. 10 characters needed",
+  "enter_phone": "Enter your phone number",
+  "enter_password": "Enter your password",
+  "ok": "OK",
+  "invalid_credentials": "Invalid Credentials!",
+  "cancel": "Cancel",
+  "log_out": "Log Out",
+  "log_out_msg": "Are you sure you want to log out?"
+}
