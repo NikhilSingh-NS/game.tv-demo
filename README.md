@@ -1,4 +1,4 @@
-# blue_stacks_assignment
+# Game.tv Demo Flutter App.
 
 A new Flutter application.
 
